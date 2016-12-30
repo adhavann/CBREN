@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Iedk"/>
+	<classpathentry kind="lib" path="E:/Aadhavan/Masters/Semester-3/HCI-CS6369_Fillia_Makedon/Project_related/community-sdk-master/lib/java/jna.jar"/>
+	<classpathentry kind="lib" path="/Iedk/com/emotiv/Iedk"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
